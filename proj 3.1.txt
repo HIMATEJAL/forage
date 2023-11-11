@@ -1,0 +1,27 @@
+
+
+**Data Analysis Report**
+
+1. Total Sales Revenue:
+   - The total sales revenue for the given data is given in the pdf.
+
+2. Number of Customers:
+   - The total number of unique customers in the data is given in the pdf.
+
+3. Average Transactions per Customer:
+   - The average number of transactions per customer is mentioned in the pdf.
+
+4. Control Store Selection:
+   - To compare trial stores with control stores, Pearson correlations were calculated based on total sales.
+   - The trial store [insert trial store ID] was compared with the following control stores: [insert control store IDs].
+   - The control store [insert best control store ID] showed the highest correlation with the trial store based on total sales.
+
+5. Comparison of Trial and Control Stores:
+   - During the trial period, the total sales in the trial store and the best control store were analyzed to determine significant differences.
+   - Statistical tests were conducted to evaluate if the total sales in the trial period were significantly different from the control store.
+   - Further analysis was performed to identify the drivers of change in sales, such as the number of purchasing customers or purchases per customer.
+
+
+
+Note: The above report provides a high-level summary of the analysis conducted on the given data. Detailed analysis steps, calculations, and statistical tests may not be included in this summary.
+
